@@ -1,0 +1,70 @@
+<data>
+  <PInformation>
+    RPIMT Contributor
+    <Information>RPIMT Contributor</Information>
+    <Details>Sir Gervie Sison</Details>
+  </PInformation>
+  <PInformation>
+    Topic
+    <Information>Topic</Information>
+    <Details>Sample Question - Multiple Choice 4</Details>
+  </PInformation>
+  <PInformation>
+    TypeofTest
+    <Information>TypeofTest</Information>
+    <Details>Multiple Choice 4</Details>
+  </PInformation>
+  <PInformation>
+    TotalTestOption
+    <Information>TotalTestOption</Information>
+    <Details>4</Details>
+  </PInformation>
+  <Question>
+    My Question
+    <Question>My Question</Question>
+    <Option1>Option 1</Option1>
+    <Option2>Option 2</Option2>
+    <Option3>Option 3</Option3>
+    <Option4>Option 4</Option4>
+  </Question>
+  <Question>
+    My Question 1
+    <Question>Question 1</Question>
+    <Option1>Answer11</Option1>
+    <Option2>Answer21</Option2>
+    <Option3>Answer31</Option3>
+    <Option4>Answer41</Option4>
+  </Question>
+  <Question>
+    My Question 2
+    <Question>Question2</Question>
+    <Option1>Answer12</Option1>
+    <Option2>Answer22</Option2>
+    <Option3>Answer32</Option3>
+    <Option4>Answer42</Option4>
+  </Question>
+  <Question>
+    My Question 3
+    <Question>Question 3</Question>
+    <Option1>Answer13</Option1>
+    <Option2>Answer23</Option2>
+    <Option3>Answer33</Option3>
+    <Option4>Answer43</Option4>
+  </Question>
+  <Question>
+    My Question 4
+    <Question>Question 4</Question>
+    <Option1>Answer14</Option1>
+    <Option2>Answer24</Option2>
+    <Option3>Answer34</Option3>
+    <Option4>Answer34</Option4>
+  </Question>
+  <Question>
+    My Question 5
+    <Question>Question 5</Question>
+    <Option1>Answer15</Option1>
+    <Option2>Answer25</Option2>
+    <Option3>Answer35</Option3>
+    <Option4>Answer45</Option4>
+  </Question>
+</data>
